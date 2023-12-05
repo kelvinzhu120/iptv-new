@@ -1,38 +1,147 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台@@7[geo-blocked]
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
 https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台@@8[geo-blocked]
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
 https://epg.pw/stream/eacc8839c893bd08bff7894a40e012e551fe159dea4eb1d40254254bd4cf1044.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[SD]翡翠台@@4[geo-blocked]
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[SD]翡翠台
 https://epg.pw/stream/1417f1ccf5d6c9900879891d523bc18cfe17c644a5af97efa6f727d5f4f8ef7d.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://113.117.74.20:8081/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/435ee905fda0b0012e9a86fc318c7b33e583ac178660f6fdba8d4dd0178d69c2.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/2458fe474173a8bf1848db96ef318aed48c47ae7fcfe51c79ab46d7287acad4c.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/bdf3882901070e353bbde5bac8cc1d75643c8031fa44edb9b24be8f818ec8056.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/685845ae45b57de2184dff5e30dea15b9321a819abfb1a6bda74cceacbeb5146.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/87a0629ac6475151b608af33278ae5eb845c37fa7bb7a8a0ee6cc5a9ce029e86.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/aff3be6b6b42d4dbea3b0fe911eeebc2dcc4fc73aaf31ac1b9abf92e116d8ec7.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]ASTRO 华丽台
+https://epg.pw/stream/f36d152884104ee5d3a99388bec38b48d46cd281d3322aa9b95f11904054ab16.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/2c85f89da116371da27dde256bb841993d9e46165a5f94e20e3f449bb7491844.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/950db33a6609bd9104805b3e8e23e61184ab11ab621c2339b2962a742993af78.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/e022dd100e46c0d430599f64e4aeae9e046b699c79d212ca720f7bc67d96ee96.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/5ae825d4a51c11df305c12e54709d45f1ded5b733b84ee1e76d21089f6d4bbdb.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/1d59dd82f45603441f30951fafe67697984bc33ab712555936203342883a72b4.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/cc9757258142a96202ea75028524ef311631a356c54ac11533dbdb959315d5c9.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/ea5a576b0088de44dbce3bac8e2cde874906ffab11ed2d5f1bd7abe47980a58b.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/636f412bbf1921e03e7d23cbcb47fab5cff14f5b98313402cfa563e80ed383ac.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/f0432b0e30740e1b2ab7ba76a080083045b9f4f7d11cd3f5230859b5b65e0f0a.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/7f7ce38a94c4d38d0f4ce3b7795e9e85ad96187a4429e6b2662531c4d3a2f1af.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/2cf070cda82dd84e924ef6a99f2d48b689d1791ef3bee05370347fb1967e33da.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/0b8827340a236a844e6a06ec3893fbd2c3068d89d347f3790f6004808b39191f.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/b204df30a74900c31103615d9fb4f16942644d1e8b7da90a6f16dfde35ecc92c.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/e127d8fc2e1dda4f5969a3b56751c730e65c98f5558605fad6a86e19751c4340.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/38e5e0cacec1858ea03b6557698a01927ca664a17f5e7a535e1f95a5ea3146e2.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/b5736c2950b39413763409a3abcdd44e90542ede72834b2752c0e95bdc79809f.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/b032418658656c6173a8dcaf2527bfd66139531a25e751232e0589cb4dc87b20.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/4a270ee8c19d1d45e75b3f308762be8368caddca4cab4799f0ebd49402b4e822.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/5ae23d382ba8410974a37778a9ef7f7ab8827902709cfd986c70d435ab7e89f2.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/8253f6570578a5fd9d68a907f57f066d4440081dc38e0d1bd79a3d87ae77171d.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/84af3251458a9136b815dc0ada47e0e93dd8a2a71aee006f2cbece682a2a5a12.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/a8d8fb5121cddcc8a8e8a6522fe652c0f9f4a62a76a8730b2f057a7fbf310421.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台
+https://epg.pw/stream/27e39857747b990c46b27958d2b9013bb98789628b82fe7ad9b4244834b26150.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/47973f1bec87ebc2cf8c59d309bab52b4724d3be75c26c53336c2cd6744df692.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro 华丽台
+https://epg.pw/stream/32726505109981f80ae6ca37b6ac047b314683d40fab3b8845be656e43408c10.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/4f4ade7ea93490e1702d018b33437d50a735eed0e20307577a17a8e2fedaaff3.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro 华丽台
+https://epg.pw/stream/509d0637c736839bec9348ae161ceff014e3e6a9a1c57b41c11c027868e5e1d0.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro 华丽台
+https://epg.pw/stream/3be5bbc5007b296478d01ffab1be34e17f80630a164e63b9c0987f01918ee553.ctv
+#EXTINF:-1 tvg-name="ASTRO华丽(翡MAS)" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/11/13/large/20231113000722030687_42.png" group-title="港台",[HD]Astro华丽台(翡MAS)
+https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
+
 #EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[HD]无线新闻台
 https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
-#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[HD]无线新闻台[geo-blocked]
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[HD]无线新闻台
 https://epg.pw/stream/1e195ef09b19accc4e3062ff4e7c46162c069e5736539cacc58884eb86d1b7be.ctv
-#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[HD]无线新闻台[geo-blocked]
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[HD]无线新闻台
 https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
-#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台[geo-blocked]
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
 https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
-#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[SD]无线新闻台[geo-blocked]
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[SD]无线新闻台
 https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
 #EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
 https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
-#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台[geo-blocked]
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
 https://epg.pw/stream/2beaed5a1f8b545e190e4bc4b3cc8e62ffec407e557eead711d6597946c34f5c.m3u8
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1 tvg-name="無線港台台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="港台",[BD]无线新闻台
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/60e69d8e335bc780937a3c237a172f2bb508b04bf85e45d148041f421b823aaa.ctv
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/7bcb9add442944ef5f2d3a88e951e859ebc3dc0e728f5276e35681c18017ef2d.ctv
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/04d5312720840d7ba52a50e5a467be96fcc95711a3d1a8a4c347799e9ad4aff8.ctv
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/3d02d504834ebef1949d5f3b04411629a9f6c08e90bcd9e111c1a119d642e042.ctv
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/cc613c51422a81fee6880d545fc6ffdb8d2448f82de4a40200ec77e086dea918.ctv
-#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视[geo-blocked]
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="港台",[HD]凤凰卫视
 https://epg.pw/stream/613dfcc9b6a4ebb73ea2afb51ebdedd8c85f00bd306f704d5cce3541ee90006a.ctv
 #EXTINF:-1 tvg-name="鳳凰電影" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226170707446242_18.png" group-title="港台",[HD]凤凰电影
 https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
@@ -42,19 +151,34 @@ https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7
 https://epg.pw/stream/671e085ee3c69be44c8c7422e0350914beafbcf44514dd28058a18b570c18b9f.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="港台",[BD]凤凰香港[ipv6]
 https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="港台",[BD]凤凰香港@@2
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="港台",[BD]凤凰香港
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+
+#EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="港台",[BD]Hoy tv
+https://epg.pw/stream/d03f13beaa8f34f0540a8b022400a0ae5f1e6f7e377c2d248bf57053d5c086ea.ctv
+#EXTINF:-1 tvg-name="ViuTV HD" tvg-id="10957" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="綜藝",[BD]Viu tv
+https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
+
+#EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="港台",[HD]Tvb j2
+https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv
+#EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="港台",[HD]Tvb j2
+https://epg.pw/stream/d4c55db9734d1ef9b965aea31b481b4fae6a5b7f06298317bde593325ae2dca2.ctv
+#EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="港台",[HD]Tvb j2
+https://epg.pw/stream/1f7f632381caba2a22108ba4aa8e16633c740fa022a0d07a5883bfe2a8d42832.ctv
+#EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193850054037_87.png" group-title="港台",[BD]Tvb j2
+https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv,http://r.jdshipin.com/Nr5jq
 
 #EXTINF:-1 tvg-name="美亞電影台" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",[HD]美亞電影
 https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
-#EXTINF:-1 tvg-name="美亞電影台" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",[VGA]美亚电影台@@1[geo-blocked]
-https://epg.pw/stream/cca3c5a4a977da3591cb380d07e25d305e7e6c79d6b909abcd3937a533f5cb60.ctv
-#EXTINF:-1 tvg-name="甄子丹" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="電影",[HD]甄子丹[geo-blocked]
+#EXTINF:-1 tvg-name="美亞電影台" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",[HD]美亞電影
+http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+#EXTINF:-1 tvg-name="甄子丹" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="電影",[HD]甄子丹
 https://epg.pw/stream/4c65cee79a22a5ca55ca05fb71f8c21edcbe2fdfafdbc3f464643cb925d16275.ctv
-#EXTINF:-1 tvg-name="周星驰" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg" group-title="電影",[HD]周星驰[geo-blocked]
+#EXTINF:-1 tvg-name="周星驰" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg" group-title="電影",[HD]周星驰
 https://epg.pw/stream/fc73904b30181d1c79c116b1bd3872b24afe9540eb62dc91ff343bd05b086332.ctv
-#EXTINF:-1 tvg-name="周润发" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223041134724_11.jpg" group-title="電影",[SD]周润发[geo-blocked]
+#EXTINF:-1 tvg-name="周润发" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223041134724_11.jpg" group-title="電影",[SD]周润发
 https://epg.pw/stream/b595f7e55243ef358cd245b3f5c4fc116db2abaff5e246f6313a552831f3675e.ctv
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="百视通",CCTV1
