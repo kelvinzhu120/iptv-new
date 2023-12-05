@@ -166,7 +166,7 @@ https://epg.pw/stream/d4c55db9734d1ef9b965aea31b481b4fae6a5b7f06298317bde593325a
 #EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="港台",[HD]Tvb j2
 https://epg.pw/stream/1f7f632381caba2a22108ba4aa8e16633c740fa022a0d07a5883bfe2a8d42832.ctv
 #EXTINF:-1 tvg-name="TVB J2" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193850054037_87.png" group-title="港台",[BD]Tvb j2
-https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv,http://r.jdshipin.com/Nr5jq
+"https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv,http://r.jdshipin.com/Nr5jq"
 
 #EXTINF:-1 tvg-name="美亞電影台" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",[HD]美亞電影
 https://epg.pw/stream/bbc27a0994e3a6d5f1bbd667f2a13752530e8e75be271ad527a29382b23adbd7.m3u8
