@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台@@7[geo-blocked]
 https://epg.pw/stream/0e22249951c49760b078dc8b0ba7751cd2f13d69964892dddb16160127171c2c.ctv
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="港台",[HD]翡翠台@@8[geo-blocked]
